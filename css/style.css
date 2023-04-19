@@ -22,9 +22,10 @@ body{
 .header .logo,.header .navbar ,a{
     color: white;
 }
-/* .nav-items{
-    color: white;
-} */
+.nav-items{
+ list-style-type: none;
+ /* remove bullate point in unorderd list in html */
+}
 .header .navbar .logo{
     float: left;
 }
